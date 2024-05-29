@@ -2,9 +2,18 @@
 
 This repository has all the code and report for my Data Scientist Capstone project.
 
+## Table of Contents
+
+1. [Installation](#installation)
+2. [Project Motivation](#motivation)
+3. [File Descriptions](#files)
+4. [Results](#results)
+5. [Licensing, Authors, and Acknowledgements](#licensing)
+
 ## Starbucks Capstone Challenge: Using Starbucks app user data to predict effective offers
 
-### 1. Installations
+### 1. Installations <a name="installation"></a>
+
 There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python. The code should run with no issues using Python versions 3.*.
 However, the relevant Python packages for this project are as follows:
 
@@ -22,7 +31,8 @@ However, the relevant Python packages for this project are as follows:
 - sklearn.model_selection (GridSearchCV)
 - matplotlib
 
-### 2. Project Motivation
+### 2. Project Motivation <a name="motivation"></a>
+
 This project is the Capstone project of my Data Scientist nanodegree with Udacity. As students in the nanodegree, we have the option to take part in the Starbucks Capstone Challenge.
 For the challenge, Udacity provided simulated data that mimics customer behavior on the Starbucks rewards mobile app.
 
@@ -38,10 +48,11 @@ As a brief summary of my findings:
 
 - For Question 2,my decision to use 3 separate models to predict the effectiveness of each offer type ended up with good accuracy for the 2 of the models (82.83% for BOGO and 87.35% for discount), while slightly less accurate performance for another informational offers (75.3%). However, I would regard 75% as acceptable in a business setting, as for informational offers, there is no cost involved to inform users of a product. Meanwhile, an 80% and above accuracy in a business setting would be acceptable to show offers to people, even if the model misclassifies a few, the overall revenue increase might justify the few mistakes.
 
-### 3. File Descriptions
+### 3. File Descriptions  <a name="files"></a>
+
 This repo contains 4 files. The report of my project is called 'Starbucks Capstone Challenge - Using Starbucks app user data to predict effective offers.ipynb'. 
 The data used in the project is in the files portfolio.json, profile.json and transcript.json. 
 
-### 4. Licensing, Authors, Acknowledgements, etc.
+### 4. Licensing, Authors, Acknowledgements, etc.  <a name="licensing"></a>
 
 Data for coding project was provided by Udacity.
