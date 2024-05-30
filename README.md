@@ -7,7 +7,8 @@ This repository has all the code and report for my Data Scientist Capstone proje
 1. [Installation](#installation)
 2. [Project Motivation](#motivation)
 3. [File Descriptions](#files)
-4. [Licensing, Authors, and Acknowledgements](#licensing)
+4. [Results](#results)
+5. [Licensing, Authors, and Acknowledgements](#licensing)
 
 ## Starbucks Capstone Challenge: Using Starbucks app user data to predict effective offers
 
@@ -50,8 +51,11 @@ In this project, we use the data to answer 2 business questions:
 This repo contains 8 files. The report of my project is called 'Starbucks_Capstone_new_francis.ipynb'. 
 The data used in the project is in the files portfolio.json, profile.json and transcript.json (however you need to unzip the file transcript.zip), the remaining files are my report in HTML format and the 2 picture files used by the report.
 
-### 4. Licensing, Authors, Acknowledgements, etc.  <a name="licensing"></a>
+### 4. Results<a name="results"></a>
+
+The main findings of the code can be found at the post available [here](https://medium.com/@franciskongolo2002/starbucks-offers-exploration-b72692961b55)
+
+
+### 5. Licensing, Authors, Acknowledgements, etc.  <a name="licensing"></a>
 
 Data for coding project was provided by Udacity.
-
-you can also access my blog by [here](#https://medium.com/@franciskongolo2002/starbucks-offers-exploration-b72692961b55)
