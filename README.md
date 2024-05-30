@@ -43,10 +43,8 @@ In this project, I use the data to answer 2 business questions:
 
   To answer the above 2 questions, I created 3 models for the data on the 3 offer types provided. The three offers are: 
   
-      - Buy One Get One Free (BOGO), 
-      
-      - Discount (discount with purchase), 
-      
+      - Buy One Get One Free (BOGO),       
+      - Discount (discount with purchase),       
       - and Informational (provides information about products).
 
 As a brief summary of my findings:
