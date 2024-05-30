@@ -38,8 +38,8 @@ For the challenge, Udacity provided simulated data that mimics customer behavior
 
 In this project, I use the data to answer 2 business questions:
 
-  - a. What are the main drivers of an effective offer on the Starbucks app?
-  - b. Could the data provided, namely offer characteristics and user demographics, predict whether a user would take up an offer?
+  - What are the main drivers of an effective offer on the Starbucks app?
+  - Could the data provided, namely offer characteristics and user demographics, predict whether a user would take up an offer?
 
 To answer the above 2 questions, I created 3 models for the data on the 3 offer types provided. The three offers are: Buy One Get One Free (BOGO), Discount (discount with purchase), and Informational (provides information about products).
 
