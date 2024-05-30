@@ -49,14 +49,14 @@ In this project, I use the data to answer 2 business questions:
       - and Informational (provides information about products).
 
 As a brief summary of my findings:
-- For Question 1, the feature importance given by all 3 models were that the tenure of a member is the biggest predictor of the effectiveness of an offer. Further study would be able to indicate what average tenure days would result in an effective BOGO offer.
+- For Question (A), the feature importance given by all 3 models were that the tenure of a member is the biggest predictor of the effectiveness of an offer. Further study would be able to indicate what average tenure days would result in an effective BOGO offer.
 
-- For Question 2,my decision to use 3 separate models to predict the effectiveness of each offer type ended up with good accuracy for the 2 of the models (82.83% for BOGO and 87.35% for discount), while slightly less accurate performance for another informational offers (75.3%). However, I would regard 75% as acceptable in a business setting, as for informational offers, there is no cost involved to inform users of a product. Meanwhile, an 80% and above accuracy in a business setting would be acceptable to show offers to people, even if the model misclassifies a few, the overall revenue increase might justify the few mistakes.
+- For Question (B), my decision to use 3 separate models to predict the effectiveness of each offer type ended up with good accuracy for the 2 of the models (82.83% for BOGO and 87.35% for discount), while slightly less accurate performance for another informational offers (75.3%). However, I would regard 75% as acceptable in a business setting, as for informational offers, there is no cost involved to inform users of a product. Meanwhile, an 80% and above accuracy in a business setting would be acceptable to show offers to people, even if the model misclassifies a few, the overall revenue increase might justify the few mistakes.
 
 ### 3. File Descriptions  <a name="files"></a>
 
-This repo contains 4 files. The report of my project is called 'Starbucks Capstone Challenge - Using Starbucks app user data to predict effective offers.ipynb'. 
-The data used in the project is in the files portfolio.json, profile.json and transcript.json. 
+This repo contains 8 files. The report of my project is called 'Starbucks_Capstone_new_francis.ipynb'. 
+The data used in the project is in the files portfolio.json, profile.json and transcript.json (however you need to unzip the file transcript.zip), the remaining files are my report in HTML format and the 2 picture files used by the report.
 
 ### 4. Licensing, Authors, Acknowledgements, etc.  <a name="licensing"></a>
 
