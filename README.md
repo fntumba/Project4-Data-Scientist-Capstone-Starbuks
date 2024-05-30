@@ -36,22 +36,15 @@ However, the relevant Python packages for this project are as follows:
 This project is the Capstone project of my Data Scientist nanodegree with Udacity. As students in the nanodegree, we have the option to take part in the Starbucks Capstone Challenge.
 For the challenge, Udacity provided simulated data that mimics customer behavior on the Starbucks rewards mobile app.
 
-In this project, I use the data to answer 2 business questions:
+Because this is a capstone project, we are free to analyze the data any way we see fit. For example, build a machine learning model that predicts how much someone will spend based on demographics and offer type. Or we could build a model that predicts whether or not someone will respond to an offer. 
+
+In this project, we use the data to answer 2 business questions:
 
     A) What are the main drivers of an effective offer on the Starbucks app?
   
     B) Could the data provided, namely offer characteristics and user demographics, predict whether a user would take up an offer?
 
-  To answer the above 2 questions, I created 3 models for the data on the 3 offer types provided. The three offers are: 
-  
-      - Buy One Get One Free (BOGO),       
-      - Discount (discount with purchase),       
-      - and Informational (provides information about products).
-
-As a brief summary of my findings:
-- For Question (A), the feature importance given by all 3 models were that the tenure of a member is the biggest predictor of the effectiveness of an offer. Further study would be able to indicate what average tenure days would result in an effective BOGO offer.
-
-- For Question (B), my decision to use 3 separate models to predict the effectiveness of each offer type ended up with good accuracy for the 2 of the models (82.83% for BOGO and 87.35% for discount), while slightly less accurate performance for another informational offers (75.3%). However, I would regard 75% as acceptable in a business setting, as for informational offers, there is no cost involved to inform users of a product. Meanwhile, an 80% and above accuracy in a business setting would be acceptable to show offers to people, even if the model misclassifies a few, the overall revenue increase might justify the few mistakes.
+ 
 
 ### 3. File Descriptions  <a name="files"></a>
 
